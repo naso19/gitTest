@@ -4,5 +4,6 @@ Hello Nadja
 
 var name = "Nadja"
 //yipii
-console.log(name)
+console.log("Hello" + name)
+
 
